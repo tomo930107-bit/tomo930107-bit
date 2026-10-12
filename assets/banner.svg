@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Omar Torres Mijares - Senior GRC &amp; Cybersecurity Consultant" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070D1F"/><stop offset="0.55" stop-color="#0E1D45"/><stop offset="1" stop-color="#25114F"/></linearGradient>
+<radialGradient id="gc"><stop offset="0" stop-color="#06B6D4" stop-opacity="0.45"/><stop offset="1" stop-color="#06B6D4" stop-opacity="0"/></radialGradient>
+<radialGradient id="gv"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0.45"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#60A5FA"/><stop offset="0.5" stop-color="#22D3EE"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#3B82F6"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="sc" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset="0.5" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#3B82F6"/><stop offset="0.5" stop-color="#22D3EE"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.045"/></pattern>
+<clipPath id="r"><rect width="1200" height="340" rx="22"/></clipPath>
+<clipPath id="shc"><path d="M960 78 L1032 104 V166 C1032 214 1001 247 960 264 C919 247 888 214 888 166 V104 Z"/></clipPath>
+</defs>
+<style>
+.scan{animation:scan 3.4s ease-in-out infinite}
+@keyframes scan{0%,100%{transform:translateY(0)}50%{transform:translateY(170px)}}
+.spin{animation:spin 40s linear infinite;transform-origin:960px 170px}
+.spinr{animation:spin 60s linear infinite reverse;transform-origin:960px 170px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.p1,.p2,.p3{animation:pulse 2.6s ease-in-out infinite}
+.p2{animation-delay:.9s} .p3{animation-delay:1.7s}
+@keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+</style>
+<g clip-path="url(#r)">
+<rect width="1200" height="340" fill="url(#bg)"/>
+<rect width="1200" height="340" fill="url(#grid)"/>
+<circle cx="960" cy="150" r="270" fill="url(#gc)"/>
+<circle cx="1160" cy="340" r="230" fill="url(#gv)"/>
+<circle cx="60" cy="-30" r="220" fill="url(#gv)" opacity="0.55"/>
+<g class="spin"><circle cx="960" cy="170" r="122" fill="none" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="3 11"/>
+<circle cx="1082" cy="170" r="5" fill="#22D3EE"/><circle cx="899" cy="64" r="4" fill="#60A5FA"/></g>
+<g class="spinr"><circle cx="960" cy="170" r="152" fill="none" stroke="#A78BFA" stroke-opacity="0.3" stroke-width="1.2" stroke-dasharray="2 16"/>
+<circle cx="852" cy="277" r="4.5" fill="#C084FC"/><circle cx="1068" cy="63" r="3.5" fill="#A78BFA"/></g>
+<path d="M960 78 L1032 104 V166 C1032 214 1001 247 960 264 C919 247 888 214 888 166 V104 Z" fill="#0A1430" fill-opacity="0.9"/>
+<path d="M960 78 L1032 104 V166 C1032 214 1001 247 960 264 C919 247 888 214 888 166 V104 Z" fill="url(#sh)" fill-opacity="0.12"/>
+<g clip-path="url(#shc)"><rect class="scan" x="880" y="70" width="160" height="3" fill="url(#sc)"/></g>
+<path d="M960 78 L1032 104 V166 C1032 214 1001 247 960 264 C919 247 888 214 888 166 V104 Z" fill="none" stroke="url(#sh)" stroke-width="3"/>
+<path d="M944 166 V150 a16 16 0 0 1 32 0 V166" fill="none" stroke="#E0F2FE" stroke-width="5" stroke-linecap="round"/>
+<rect x="932" y="164" width="56" height="44" rx="8" fill="url(#sh)"/>
+<circle cx="960" cy="181" r="6" fill="#0A1430"/><rect x="957.5" y="184" width="5" height="12" rx="2" fill="#0A1430"/>
+<circle class="p1" cx="1110" cy="110" r="3" fill="#22D3EE"/><circle class="p2" cx="812" cy="120" r="3" fill="#60A5FA"/><circle class="p3" cx="1100" cy="250" r="3" fill="#C084FC"/>
+<text x="72" y="96" font-size="14" font-weight="700" letter-spacing="4" fill="#22D3EE">CYBERSECURITY  ·  GRC  ·  ETHICAL HACKING</text>
+<text x="70" y="160" font-size="54" font-weight="800" fill="#FFFFFF">Omar Torres Mijares</text>
+<text x="72" y="202" font-size="24" font-weight="600" fill="url(#tx)">Senior GRC &amp; Cybersecurity Consultant</text>
+<rect x="72" y="232" width="134" height="34" rx="17" fill="#3B82F6" fill-opacity="0.14" stroke="#3B82F6" stroke-opacity="0.7"/><text x="139.0" y="254" text-anchor="middle" font-size="14" font-weight="600" fill="#E2E8F0">ISO/IEC 27001</text><rect x="216" y="232" width="94" height="34" rx="17" fill="#06B6D4" fill-opacity="0.14" stroke="#06B6D4" stroke-opacity="0.7"/><text x="263.0" y="254" text-anchor="middle" font-size="14" font-weight="600" fill="#E2E8F0">ISO 9001</text><rect x="320" y="232" width="142" height="34" rx="17" fill="#8B5CF6" fill-opacity="0.14" stroke="#8B5CF6" stroke-opacity="0.7"/><text x="391.0" y="254" text-anchor="middle" font-size="14" font-weight="600" fill="#E2E8F0">NIST SP 800-53</text><rect x="472" y="232" width="110" height="34" rx="17" fill="#F43F5E" fill-opacity="0.14" stroke="#F43F5E" stroke-opacity="0.7"/><text x="527.0" y="254" text-anchor="middle" font-size="14" font-weight="600" fill="#E2E8F0">Pentesting</text><rect x="592" y="232" width="166" height="34" rx="17" fill="#F59E0B" fill-opacity="0.14" stroke="#F59E0B" stroke-opacity="0.7"/><text x="675.0" y="254" text-anchor="middle" font-size="14" font-weight="600" fill="#E2E8F0">Incident Response</text>
+<circle cx="78" cy="303" r="4" fill="#22D3EE"/>
+<text x="92" y="308" font-size="14" fill="#94A3B8">Zapopan, Jalisco · México</text>
+<rect y="334" width="1200" height="6" fill="url(#bar)"/>
+</g>
+</svg>

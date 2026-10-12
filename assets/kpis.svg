@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Indicadores" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif"><defs><linearGradient id="k0" x1="0" x2="1"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><linearGradient id="k1" x1="0" x2="1"><stop offset="0" stop-color="#06B6D4"/><stop offset="1" stop-color="#10B981"/></linearGradient><linearGradient id="k2" x1="0" x2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient><linearGradient id="k3" x1="0" x2="1"><stop offset="0" stop-color="#F59E0B"/><stop offset="1" stop-color="#F43F5E"/></linearGradient></defs><rect x="1" y="1" width="282" height="128" rx="18" fill="#0B1226" stroke="#1E293B"/>
+<rect x="24" y="26" width="40" height="5" rx="2.5" fill="url(#k0)"/>
+<text x="24" y="76" font-size="30" font-weight="800" fill="url(#k0)">4+ años</text>
+<text x="24" y="104" font-size="15" fill="#94A3B8">en consultoría de seguridad TI</text><rect x="307" y="1" width="282" height="128" rx="18" fill="#0B1226" stroke="#1E293B"/>
+<rect x="330" y="26" width="40" height="5" rx="2.5" fill="url(#k1)"/>
+<text x="330" y="76" font-size="30" font-weight="800" fill="url(#k1)">ISO 27001</text>
+<text x="330" y="104" font-size="15" fill="#94A3B8">e ISO 9001 · SGSI y SGC</text><rect x="613" y="1" width="282" height="128" rx="18" fill="#0B1226" stroke="#1E293B"/>
+<rect x="636" y="26" width="40" height="5" rx="2.5" fill="url(#k2)"/>
+<text x="636" y="76" font-size="30" font-weight="800" fill="url(#k2)">Lead Auditor</text>
+<text x="636" y="104" font-size="15" fill="#94A3B8">certificado ISO 19011</text><rect x="919" y="1" width="282" height="128" rx="18" fill="#0B1226" stroke="#1E293B"/>
+<rect x="942" y="26" width="40" height="5" rx="2.5" fill="url(#k3)"/>
+<text x="942" y="76" font-size="30" font-weight="800" fill="url(#k3)">Maestría</text>
+<text x="942" y="104" font-size="15" fill="#94A3B8">Gestión de TI · 2025–2027</text></svg>
